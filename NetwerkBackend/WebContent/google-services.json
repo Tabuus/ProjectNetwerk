@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "512892520934",
+    "firebase_url": "https://netwerk201.firebaseio.com",
+    "project_id": "netwerk201",
+    "storage_bucket": "netwerk201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512892520934:android:5a8ff8ba2348bb86",
+        "android_client_info": {
+          "package_name": "com.netwerk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512892520934-q0gooo2s6o3oetq9v5j3jf11b3gdeh7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.netwerk",
+            "certificate_hash": "1b80a4efada4e7f4e26648049f026db50afedbbf"
+          }
+        },
+        {
+          "client_id": "512892520934-u2tp6meab5iik52et7o1dis4i545hjm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChQvteHpYxi2eKSCsANZHkFlpCykm5Ov8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512892520934-u2tp6meab5iik52et7o1dis4i545hjm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

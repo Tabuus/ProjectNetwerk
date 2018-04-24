@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-context/1.9.0/28b0836f48c9705abf73829bbc536dba29a1329a/grpc-context-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="28b0836f48c9705abf73829bbc536dba29a1329a">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/grpc-context-1.9.0_626f6f1f9d69c6fb66b73d58e0772e29d706df2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.23.0/e57ea1e2220bda5a2bd24ff17860212861f3c5cf/google-oauth-client-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e57ea1e2220bda5a2bd24ff17860212861f3c5cf">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.23.0_ebc9310ceae3086bd8b679e46119ca40fa169eed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.auth/google-auth-library-oauth2-http/0.9.0/4e6152c3aead24148627e84f5651e79698c00d9/google-auth-library-oauth2-http-0.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="04e6152c3aead24148627e84f5651e79698c00d9">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/google-auth-library-oauth2-http-0.9.0_8b45cc74042d45c6c5d0c595e2a83b96d3cc5abf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_ce7bc1e1dccf28f499974d1d68563698616f7a16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.9.0/cf76ab13d35e8bd5d0ffad6d82bb1ef1770f050c/grpc-core-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf76ab13d35e8bd5d0ffad6d82bb1ef1770f050c">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/grpc-core-1.9.0_0984491788174ecc98e327a66de9c36364860281.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-appengine/1.23.0/eda0d0f758c1cc525866e52e1226c4eb579d130/google-http-client-appengine-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0eda0d0f758c1cc525866e52e1226c4eb579d130">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/google-http-client-appengine-1.23.0_8ebec2d9e5c88413d6c6f91c08d5ef2a0ba3d7bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_d880e25e81f74b0fe51ac201c82bb38b8d9ec1a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_c64489df1d12427361e74323b39abfbfd9355a98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.17.Final/9585776b0a8153182412b5d5366061ff486914c1/netty-transport-4.1.17.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9585776b0a8153182412b5d5366061ff486914c1">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/netty-transport-4.1.17.Final_f1cd1947917e2684c95cbbb8469554e6699cfaf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-contrib-grpc-metrics/0.10.0/e47f918dc577b6316f57a884c500b13a98d3c11b/opencensus-contrib-grpc-metrics-0.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e47f918dc577b6316f57a884c500b13a98d3c11b">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/opencensus-contrib-grpc-metrics-0.10.0_8340cf8fa06df775d1d826781da327f94ef6b7b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/exploded-aar/ProjectNetwerk/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="efeb573638d6b2c0d30fbf3e60641272600cf3fe">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/ProjectNetwerk-react-native-image-picker-unspecified_edd1f1c2b16891588b588d020a0010470c6c8683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d1826061f8043d46dbddfb7e0967436a2244618f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.api/gax-grpc/1.16.0/ece0460bada7d27918149c455f874871dd4144ed/gax-grpc-1.16.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ece0460bada7d27918149c455f874871dd4144ed">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/gax-grpc-1.16.0_f93100589e413a34f5ea89ebdd6a40021de47294.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.api/gax-httpjson/0.33.0/3b48977bfa3b31c4f856774257d22931bd7035a/gax-httpjson-0.33.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="03b48977bfa3b31c4f856774257d22931bd7035a">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/gax-httpjson-0.33.0_ac5a359450a2124c4edaaa5bbdda5766284e306e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.17.Final/a159bf1f3d5019e0d561c92fbbec8400967471fa/netty-codec-socks-4.1.17.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a159bf1f3d5019e0d561c92fbbec8400967471fa">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/netty-codec-socks-4.1.17.Final_f962ee4ddaddbc660426feeadd4878dea8a8ea21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf-lite/1.9.0/9dc9c6531ae0b304581adff0e9b7cff21a4073ac/grpc-protobuf-lite-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9dc9c6531ae0b304581adff0e9b7cff21a4073ac">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/grpc-protobuf-lite-1.9.0_1e4a8e4fa115a59632222f64b0f87652ef81a37f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-core-http/1.15.0/ffe79ff309af26c6eeeaa8f52dc24ce797805b4/google-cloud-core-http-1.15.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0ffe79ff309af26c6eeeaa8f52dc24ce797805b4">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/google-cloud-core-http-1.15.0_15c6cd81830d1401b73f5e1bfef44b4984081b90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="da76ca59f6a57ee3102f8f9bd9cee742973efa8a">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.25_427657956d901f41101fd59701f6ac4566093448.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_78f7bcadcba6260102866920548b29508a11166e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_34a7c67a3e8c0751943ce0aa56941bf6a01120d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.api/gax/1.16.0/e20231eb08fa520b9a5e511e1104dfa8656f5631/gax-1.16.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e20231eb08fa520b9a5e511e1104dfa8656f5631">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/gax-1.16.0_fdbe696daaa037e412f71a6c34b9a2bab725adc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-core/1.15.0/c0810f30f96d6f94335cdad7bf17009c466dcbe9/google-cloud-core-1.15.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c0810f30f96d6f94335cdad7bf17009c466dcbe9">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/google-cloud-core-1.15.0_625163422b29a455c361e185d620447c039ad4da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_87fc1c0dcb98c16319cf34481ee88b28ed9b79f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.23.0/522ea860eb48dee71dfe2c61a1fd09663539f556/google-api-client-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="522ea860eb48dee71dfe2c61a1fd09663539f556">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/google-api-client-1.23.0_932f2f5ca1454deae5d5621c1872defdc8da69e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.17.Final/8f386c80821e200f542da282ae1d3cde5cad8368/netty-resolver-4.1.17.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f386c80821e200f542da282ae1d3cde5cad8368">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/netty-resolver-4.1.17.Final_0e33e7e3ffd5b86ed3faf035d86cdab6a105fed8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.17.Final/1d00f56dc9e55203a4bde5aae3d0828fdeb818e7/netty-codec-4.1.17.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1d00f56dc9e55203a4bde5aae3d0828fdeb818e7">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/netty-codec-4.1.17.Final_72481ee463a8c218157a4ffecb0eeae382d11cc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.17.Final/18c40ffb61a1d1979eca024087070762fdc4664a/netty-handler-4.1.17.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="18c40ffb61a1d1979eca024087070762fdc4664a">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/netty-handler-4.1.17.Final_c37f71f50bbe02825dc5d993203e2406d5b5b22e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_20db9b7609a6b5f0c22fbeb248ec1e8b146ceb14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/gson-2.7_dab1560c83d2bd0f774f25111f98b380a6d5ac9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.17.Final/581c8ee239e4dc0976c2405d155f475538325098/netty-common-4.1.17.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="581c8ee239e4dc0976c2405d155f475538325098">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/netty-common-4.1.17.Final_e43d81a0237cb5ddfc8f40fd90a001e9d9a311e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/exploded-aar/ProjectNetwerk/react-native-fetch-blob/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="89130388da2ea73dd7ef12caea950c8abab7d44e">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/ProjectNetwerk-react-native-fetch-blob-unspecified_a787b7feb6195d8644a78b101627a1c0d5cdf978.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-common-protos/1.0.4/771c6220544afe0169bec7539efa527fd859d4ed/proto-google-common-protos-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="771c6220544afe0169bec7539efa527fd859d4ed">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/proto-google-common-protos-1.0.4_b65cd2a7f6dc064dc9fd47dec967981000553d00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-gson/1.23.0/37d56e99d5383fc1ae2a8d9877df6557df19682b/google-api-client-gson-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37d56e99d5383fc1ae2a8d9877df6557df19682b">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/google-api-client-gson-1.23.0_bb78ec8648727802f0b7aacf4e7789a444fc7b4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-api/0.10.0/46bcf07e0bd835022ccd531d99c3eb813382d4d8/opencensus-api-0.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="46bcf07e0bd835022ccd531d99c3eb813382d4d8">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/opencensus-api-0.10.0_1396618ae16eae0ca465009f63d2221a3aa874ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_9483502f11640e21858614a799c6e27c86ef6c2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-iam-v1/0.1.28/c9e7cd603fc43814656611d54aca71305c13b17d/proto-google-iam-v1-0.1.28.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c9e7cd603fc43814656611d54aca71305c13b17d">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/proto-google-iam-v1-0.1.28_8b791f28bc4a39ac9a319637c6061e757db075e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/exploded-aar/ProjectNetwerk/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/ProjectNetwerk-react-native-vector-icons-unspecified_c128bad55e80e20eac8f3a6cef08257ba52009fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-netty/1.9.0/8157384d87497dc18604a5ba3760763fe643f16e/grpc-netty-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8157384d87497dc18604a5ba3760763fe643f16e">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/grpc-netty-1.9.0_42c5c360db2ae68e12a85f8e21c44093ae8354a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-storage/v1-rev114-1.23.0/53c10dbf25674f3877a2784b219763b75fe484be/google-api-services-storage-v1-rev114-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53c10dbf25674f3877a2784b219763b75fe484be">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/google-api-services-storage-v1-rev114-1.23.0_06a4fdb7f03e6d697c3ea86d1f40bad60a6a5eb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.api/api-common/1.2.0/ac251a3623e19c4eb0a7dbb503ca32a0515f9713/api-common-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ac251a3623e19c4eb0a7dbb503ca32a0515f9713">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/api-common-1.2.0_cd3a39861c7216d5036d4407f9139190215488ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.auth/google-auth-library-credentials/0.9.0/8e2b181feff6005c9cbc6f5c1c1e2d3ec9138d46/google-auth-library-credentials-0.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8e2b181feff6005c9cbc6f5c1c1e2d3ec9138d46">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/google-auth-library-credentials-0.9.0_f705ddd0e22120f6af0e1a00277a2f87679923ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-firestore/0.33.0-beta/70eea83c30e7472f7dbdbcf12f28a3fc4a34f4f3/google-cloud-firestore-0.33.0-beta.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70eea83c30e7472f7dbdbcf12f28a3fc4a34f4f3">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/google-cloud-firestore-0.33.0-beta_95491a4d11e3936450c48d00ecc342a6c8ca15ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-auth/1.9.0/d2eadc6d28ebee8ec0cef74f882255e4069972ad/grpc-auth-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d2eadc6d28ebee8ec0cef74f882255e4069972ad">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/grpc-auth-1.9.0_6c5aac4278523e54723d75a9058945ecf0ca4646.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-storage/1.15.0/b2c6b1361eef9b084f9a5bfabf350b4997fb087b/google-cloud-storage-1.15.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b2c6b1361eef9b084f9a5bfabf350b4997fb087b">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/google-cloud-storage-1.15.0_7974355c31dddc56fe3e5b538e0b758a103a2e8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson/1.23.0/a72ea3a197937ef63a893e73df312dac0d813663/google-http-client-jackson-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a72ea3a197937ef63a893e73df312dac0d813663">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/google-http-client-jackson-1.23.0_4321ce8bcab7e0e3d726fa7a2c87c904641b42f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-cloud-firestore-v1beta1/0.1.28/bf1a882693a239cc7d40bb7f162150a055a5f28a/proto-google-cloud-firestore-v1beta1-0.1.28.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bf1a882693a239cc7d40bb7f162150a055a5f28a">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/proto-google-cloud-firestore-v1beta1-0.1.28_486360d97a798bc1a42b556cd289a68bbd72f915.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-gson/1.23.0/7029b196174e7f424217d047a9d1966dd2aa61df/google-http-client-gson-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7029b196174e7f424217d047a9d1966dd2aa61df">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/google-http-client-gson-1.23.0_8ddb55bb1d134464ca21ea328c1f8045697bbcae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.1.2/6dcc08f90f678ac33e5ef78c3c752b6f59e63e0c/error_prone_annotations-2.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6dcc08f90f678ac33e5ef78c3c752b6f59e63e0c">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/error_prone_annotations-2.1.2_e0e6f70df6e6eeb4a55e3745557def7c00e3c92b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.5.1/8c3492f7662fa1cbf8ca76a0f5eb1146f7725acd/protobuf-java-3.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8c3492f7662fa1cbf8ca76a0f5eb1146f7725acd">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/protobuf-java-3.5.1_09ad7494bf8835649d4a4a0bc38636d967a1b363.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.1.3/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3_22d52595f69e69368302542762fce9b1c956e58b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.instrumentation/instrumentation-api/0.4.3/41614af3429573dc02645d541638929d877945a2/instrumentation-api-0.4.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="41614af3429573dc02645d541638929d877945a2">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/instrumentation-api-0.4.3_c3b27e3eb92ea80e0e3d44dc586277b0e0dcc249.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java-util/3.5.1/6e40a6a3f52455bd633aa2a0dba1a416e62b4575/protobuf-java-util-3.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6e40a6a3f52455bd633aa2a0dba1a416e62b4575">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/protobuf-java-util-3.5.1_2e99231a813bb5719cb292ef8df1444a274f8dc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-stub/1.9.0/20e310f888860a27dfa509a69eebb236417ee93f/grpc-stub-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="20e310f888860a27dfa509a69eebb236417ee93f">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/grpc-stub-1.9.0_b97565421bbcac57e246fdea4eb4469550fed21f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_df28607fefb98a2ddd4746ec2b4792fbfb10e29e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_879a1cd3dd63a8dffe97586d9ffd35064d7139c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/f7be08ec23c21485b9b5a1cf1654c2ec8c58168d/jsr305-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.1_5c6f245c8596d7bac853c83f8fbfca55ec1a1b39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.23.0/8e86c84ff3c98eca6423e97780325b299133d858/google-http-client-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8e86c84ff3c98eca6423e97780325b299133d858">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/google-http-client-1.23.0_9160c09d085e9ddee1b0ef42c6f2500c518afe9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.17.Final/251d7edcb897122b9b23f24ff793cd0739056b9e/netty-codec-http-4.1.17.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="251d7edcb897122b9b23f24ff793cd0739056b9e">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/netty-codec-http-4.1.17.Final_e72faf9359661e043317d9dad5f7d9fd70de61fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_655891b45d1f88fb9148a1588c9efc1fd26ee592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_46f7ec2f0afa7d4e3db1f14c089045b5910fb43c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/com.android.support-multidex-1.0.0_e23eef3c3c62becdcfc34b85fc4bc5237a241254.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/io.netty/netty-tcnative-boringssl-static/2.0.7.Final/a8ec0f0ee612fa89c709bdd3881c3f79fa00431d/netty-tcnative-boringssl-static-2.0.7.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a8ec0f0ee612fa89c709bdd3881c3f79fa00431d">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/netty-tcnative-boringssl-static-2.0.7.Final_3283a5a7bce409f6a1d9c1afa5e2dadb70c1680d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/org.threeten/threetenbp/1.3.3/3ea31c96676ff12ab56be0b1af6fff61d1a4f1f2/threetenbp-1.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3ea31c96676ff12ab56be0b1af6fff61d1a4f1f2">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/threetenbp-1.3.3_72b6596c915144de2a97dc719f7ed9b5c8e01622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.9.2/36d6e77a419cb455e6fd5909f6f96b168e21e9d0/joda-time-2.9.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="36d6e77a419cb455e6fd5909f6f96b168e21e9d0">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/joda-time-2.9.2_f8790669cf53e607c96def7811b3a467763a47c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_852ac2ff5f69b179a64808bfba5438781ca023ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_1d83cab8e48956f2c17b8f19ba5ec553cdfcba3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-core-grpc/1.15.0/6f17a237b69bed4f87bcac440164ba6e740c32c5/google-cloud-core-grpc-1.15.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6f17a237b69bed4f87bcac440164ba6e740c32c5">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/google-cloud-core-grpc-1.15.0_5056c5c54877f339ebd8600057fbc26d014233a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.auto.value/auto-value/1.2/6873fed014fe1de1051aae2af68ba266d2934471/auto-value-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6873fed014fe1de1051aae2af68ba266d2934471">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/auto-value-1.2_9d1533ae56f381da884d70028d5e1616cefbba2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.17.Final/9330ee60c4e48ca60aac89b7bc5ec2567e84f28e/netty-handler-proxy-4.1.17.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9330ee60c4e48ca60aac89b7bc5ec2567e84f28e">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/netty-handler-proxy-4.1.17.Final_688e83d4a7761b4598d12956bb8e6eeb0a025c1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http2/4.1.17.Final/f9844005869c6d9049f4b677228a89fee4c6eab3/netty-codec-http2-4.1.17.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f9844005869c6d9049f4b677228a89fee4c6eab3">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/netty-codec-http2-4.1.17.Final_88aaf388d255a7a90f17ef8aaec7e94b80c63385.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.23.0/fd6761f4046a8cb0455e6fa5f58e12b061e9826e/google-http-client-jackson2-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fd6761f4046a8cb0455e6fa5f58e12b061e9826e">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.23.0_6360c1f7c3d9f86c36f582ee6cf2f2b9eba01ab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.m2/repository/com/google/guava/guava-jdk5/17.0/guava-jdk5-17.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/guava-jdk5-17.0_ca8035697bfea2df5b1b0a5f8a37609c13aa7ab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/20.0/89507701249388e1ed5ddcf8c41f4ce1be7831ef/guava-20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="89507701249388e1ed5ddcf8c41f4ce1be7831ef">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/guava-20.0_ae2b0bc26e04475b60966bb40ce1f305a6e554a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_0487d844711d38f2edc68bf4308034f96514f5e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_2c73175bd4ddf5a0b1f26729aee3aa3bd605a2b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.11/e32303ef8bd18a5c9272780d49b81c95e05ddf43/jackson-core-asl-1.9.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e32303ef8bd18a5c9272780d49b81c95e05ddf43">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/jackson-core-asl-1.9.11_ba8c9bbf44aa4fccf05c3ccc418db310dff7b4bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-admin/5.9.0/c8e8c4a191158b3fb711c757cb48ed2f9ba239f9/firebase-admin-5.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c8e8c4a191158b3fb711c757cb48ed2f9ba239f9">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/firebase-admin-5.9.0_bfd22e0eb8e269e92624c769b75330e1c466650f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf/1.9.0/94ca247577e4cf1a38d5ac9d536ac1d426a1ccc5/grpc-protobuf-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="94ca247577e4cf1a38d5ac9d536ac1d426a1ccc5">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/grpc-protobuf-1.9.0_060817586cddd2252c5668ac1fc7cd9a7383e7df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_de33aa76e86fe7fdadd6a2055788041b026f497d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="32144817b13aa04e560dad1d1b52c420e4f9d5ca">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.1_ea6eabf41489928fe708b8df5c539d26d706ec82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_1d432e670970ef6fe4a83a8a4d882f78e14ef874.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Melissa/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.17.Final/fdd68fb3defd7059a7392b9395ee941ef9bacc25/netty-buffer-4.1.17.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fdd68fb3defd7059a7392b9395ee941ef9bacc25">
+        <dex dex="/Users/Melissa/Desktop/201FP/ProjectNetwerk/android/app/build/intermediates/pre-dexed/debug/netty-buffer-4.1.17.Final_1870d170c198c7af69ed838f9e805c68c37596cd.jar" />
+    </item>
+
+</items>
